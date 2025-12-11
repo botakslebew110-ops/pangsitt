@@ -1308,7 +1308,7 @@
             },
             {
                 id: 4,
-                name: "bila bila ayam pangsit.jpg",
+                name: "bila bila ayam pangsit",
                 price: 10000,
                 image: "foto/bils bila ayam pangsit.jpg",
                 description: "Isi ayam lembut dengan bumbu bawang, merica, dan sedikit sayuran—rasa gurih klasik seperti pangsit ayam pada umumnya.",
